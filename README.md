@@ -15,4 +15,3 @@
 <br clear="right"/>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charlie8989&show_icons=true&theme=dark)
