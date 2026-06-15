@@ -15,11 +15,3 @@
 <br clear="right"/>
 
 ---
-
-### Tech Stack
-
-```txt
-Frontend   : React • Next.js • Tailwind CSS
-Backend    : Node.js • Express.js
-Database   : MongoDB • MySQL
-Tools      : Git • GitHub • Postman
