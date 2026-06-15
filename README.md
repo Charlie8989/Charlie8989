@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/56e45247-f0d5-40ed-9679-af7eed252479" />
 - 🔭 I’m currently working on full-stack web projects and SaaS ideas  
 - 🌱 I’m currently learning Next.js, backend scalability, and cloud basics  
 - 👯 I’m looking to collaborate on web apps, startups, and open-source projects  
