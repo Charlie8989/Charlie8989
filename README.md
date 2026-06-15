@@ -115,7 +115,7 @@ Tools
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Charlie8989">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
 </a>
 
@@ -143,15 +143,15 @@ Tools
 
 ## 📈 CONTRIBUTIONS
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charlie8989&theme=github-dark&hide_border=true" width="100%">
 
 <br>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Charlie8989&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Charlie8989&theme=tokyonight"/>
 
 </div>
 
