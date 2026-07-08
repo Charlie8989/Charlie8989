@@ -2,7 +2,7 @@
 
 <img align="right" alt="Anime Profile" width="280" src="https://github.com/user-attachments/assets/56e45247-f0d5-40ed-9679-af7eed252479" />
 
-### About Me
+ About Me
 
 - 🔭 Building full-stack web applications and SaaS products
 - 🌱 Learning Next.js, backend scalability, and cloud fundamentals
