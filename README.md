@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
+  <img src="https://raw.githubusercontent.com/Charlie8989/Charlie8989/output/github-snake-dark.svg" width="100%">
   
   <br>
 </div>
