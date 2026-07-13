@@ -13,5 +13,21 @@
 - ⚡ Fun fact: I trust `console.log()` more than people
 
 <br clear="right"/>
+<br clear="right"/>
+<br>
+
+<div align="center">
+  <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
+  
+  <br>
+</div>
+
+<div align="center">
+  <p align="center">
+  <img src="https://github.com/Synaptara/Synaptara/blob/output/github-snake-dark.svg" width="100%">
+</p>
+</div>
+
+<br><br>
 
 ---
