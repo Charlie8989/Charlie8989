@@ -24,7 +24,7 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://github.com/Synaptara/Synaptara/blob/output/github-snake-dark.svg" width="100%">
+  <img src="https://github.com/Charlie8989/Charlie8989/blob/output/github-snake-dark.svg" width="100%">
 </p>
 </div>
 
